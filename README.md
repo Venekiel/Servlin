@@ -1,2 +1,2 @@
-# Dockerized-PHP-App-Template
-A template repository for building dockerized php apps
+# Servlin
+An application deployment website to manage the lifecycle of applications, from source code management to production tracking.
