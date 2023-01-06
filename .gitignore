@@ -1,0 +1,5 @@
+# VsCode files
+/.vscode/
+
+# Database files
+/infra/volumes/
