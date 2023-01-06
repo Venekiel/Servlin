@@ -41,7 +41,7 @@ services:
 
 ###> symfony/mailer ###
     mailer:
-        container_name: mailer
+        # container_name: mailer
         image: tophfr/mailcatcher
         ports: 
             - 1025:25
